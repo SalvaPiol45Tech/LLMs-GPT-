@@ -254,11 +254,11 @@ text = tokenizer.decode(tokens)
 
 On the sample data:
 
-| Epoch | Train Loss | Val Loss | Perplexity |
-|-------|-----------|----------|-----------|
-| 1     | 3.82      | 3.12     | 22.6      |
-| 2     | 2.95      | 2.64     | 14.0      |
-| 3     | 2.41      | 2.35     | 10.5      |
+| step | Train Loss | Val Loss | total step
+|-------|-----------|----------|
+| 1     | 3.82      | 1.2556|  14175
+| 2     | 2.95      | 99    | 
+| 3     | 2.41      | 85    | 
 
 **Note:** Performance depends on:
 - Amount of training data
