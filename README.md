@@ -256,9 +256,9 @@ On the sample data:
 
 | epoch | Train Loss | Val Loss | total step
 |-------|-----------|----------|
-| 1     | 3.82      | 1.2556|  14175
-| 2     | 2.95      | 99    | 
-| 3     | 2.41      | 85    | 
+| 1     |116       | 1.2556|  14175
+| 2     | 100    | 99    | 
+| 3     | 95      | 85    | 
 
 **Note:** Performance depends on:
 - Amount of training data
