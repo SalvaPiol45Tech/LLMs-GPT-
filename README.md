@@ -254,7 +254,7 @@ text = tokenizer.decode(tokens)
 
 On the sample data:
 
-| step | Train Loss | Val Loss | total step
+| epoch | Train Loss | Val Loss | total step
 |-------|-----------|----------|
 | 1     | 3.82      | 1.2556|  14175
 | 2     | 2.95      | 99    | 
