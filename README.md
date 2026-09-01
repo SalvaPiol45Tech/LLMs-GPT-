@@ -14,7 +14,7 @@ This project demonstrates how to build a language model from the ground up witho
 ## 📊 Model Architecture
 
 ```
-GPT-Like Language Model (24M Parameters)
+GPT-Like Language Model (10.9M Parameters)
 ├── Token Embedding (vocab_size → 384D)
 ├── Positional Embedding (learned)
 ├── 6 Transformer Blocks
