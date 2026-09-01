@@ -120,7 +120,7 @@ Train samples: 2599
 Val samples: 289
 
 Initializing model...
-Model: 24.5M parameters
+Model: 10.9M parameters
 
 Starting training...
 
@@ -445,7 +445,7 @@ If you use this in your work, cite as:
 
 ---
 
-**Last Updated:** 2024
+**Last Updated:** 2026
 **Status:** Working ✅
 **GPU Support:** CUDA/CPU
 **Python Version:** 3.8+
