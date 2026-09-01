@@ -31,7 +31,7 @@ GPT-Like Language Model (10.9M Parameters)
 - Rotary position embeddings (RoPE)
 - Pre-layer normalization
 - Residual connections
-- ~24.5M parameters (trainable on local GPU)
+- ~10.9M parameters (trainable on local GPU)
 
 ## 📁 Project Structure
 
